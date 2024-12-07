@@ -1,7 +1,7 @@
 ```markdown
 # Roman Numeral Converter
 
-This project is a simple JavaScript-based application that converts standard numerical format to Roman numerals. The application handles numbers from **1 to 3999** and includes input validation to ensure accuracy and usability.
+The application handles numbers from **1 to 3999** and includes input validation to ensure accuracy and usability.
 
 ## Features
 
